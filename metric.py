@@ -23,8 +23,8 @@ class DegradeAndCompress(Metric):
         self.kernel = kernel
 
     def compute(self, input: str) -> float:
-        degrade_input = self.degrader.degrade(input)
-        compresed_input = self.compressor.compress(input)
+        degraded_input = self.degrader.degrade(input)
+        compressed_input = self.compressor.compress(input)
         compressed_degraded_input = self.compressor.compress(degraded_input)
         output = self.kernel(len(compressed_input), len(compressed_degraded_input))
         return output
