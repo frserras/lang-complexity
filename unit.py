@@ -40,6 +40,15 @@ class Chars(UnitParser):
         ]
         output = ParseResult(indexed_sequence, set(idx))
         return output
+    
+class Spaces(UnitParser):
+    def parse(self, text: str) -> ParseResult:
+        indexed_sequence = [c for c in text]
+        idx = [
+            i for (i, c) in enumerate(indexed_sequence) if cat(c).startswith("Z")
+        ]
+        output = ParseResult(indexed_sequence, set(idx))
+        return output
 
 
 class NotChar(UnitParser):
