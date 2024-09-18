@@ -40,7 +40,7 @@ class Chars(UnitParser):
         ]
         output = ParseResult(indexed_sequence, set(idx))
         return output
-
+    
 
 class NotChar(UnitParser):
     def __init__(self, char: str):

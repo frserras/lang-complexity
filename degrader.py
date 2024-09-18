@@ -10,7 +10,7 @@ class Degrader:
     }
     __units = {
         "chars": U.Chars(),
-        "words": U.NotChar(" "),
+        "words": U.NotChar("\s"),
         "lines": U.NotChar("\n"),
     }
 
