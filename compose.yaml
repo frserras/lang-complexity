@@ -1,0 +1,13 @@
+services:
+  app:
+    build:
+      context: .
+      args:
+        USER: "$USER"
+        USERID: "$USERID"
+        GROUPID: "$GROUPID"
+    stdin_open: true
+    tty: true
+    network_mode: "host"
+    volumes:
+      - "./:/home/$USER/work"
