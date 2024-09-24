@@ -1,0 +1,2 @@
+#! /usr/bin/env bash
+GROUPID=$(id -g) USERID=$(id -u) docker compose up -d
