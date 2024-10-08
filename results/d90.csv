@@ -1,0 +1,219 @@
+,,,,value,value
+,,,,mean,var
+language,code,metric,algorithm,,
+Ancient Greek,[grc],$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,bz2,1.06349467,1.3e-07
+Ancient Greek,[grc],$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,gzip,1.06753807,1.6e-07
+Ancient Greek,[grc],$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,bz2,-1.27838994,2.7e-06
+Ancient Greek,[grc],$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,gzip,-1.09301645,3.2e-07
+Ancient Greek,[grc],$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,bz2,0.91611157,1.7e-06
+Ancient Greek,[grc],$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,gzip,0.90410882,1.28e-06
+Ancient Greek,[grc],$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,bz2,0.92931954,2.7e-07
+Ancient Greek,[grc],$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,gzip,0.91299676,9.2e-07
+Apalaí,apl,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,bz2,0.85959193,1.17e-06
+Apalaí,apl,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,gzip,0.84867099,1.6e-07
+Apalaí,apl,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,bz2,-1.46438208,5.4e-07
+Apalaí,apl,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,gzip,-1.21330143,5.1e-07
+Apalaí,apl,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,bz2,0.9067872,1.573e-05
+Apalaí,apl,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,gzip,0.90349822,2.06e-06
+Apalaí,apl,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,bz2,0.9493352,4.67e-06
+Apalaí,apl,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,gzip,0.92304915,4.4e-07
+Apurinã,apu,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,bz2,0.95556845,5.7e-07
+Apurinã,apu,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,gzip,0.95645899,3.4e-07
+Apurinã,apu,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,bz2,-1.46382423,4.2e-07
+Apurinã,apu,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,gzip,-1.22485291,2.3e-07
+Apurinã,apu,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,bz2,0.90725476,5.24e-06
+Apurinã,apu,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,gzip,0.90426004,1.92e-06
+Apurinã,apu,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,bz2,0.93897093,5.22e-06
+Apurinã,apu,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,gzip,0.91532857,1.3e-07
+Asheninka,cax,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,bz2,1.15464258,4.2e-07
+Asheninka,cax,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,gzip,1.24304357,1.8e-07
+Asheninka,cax,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,bz2,-1.42195297,3.8e-07
+Asheninka,cax,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,gzip,-1.18887284,4e-07
+Asheninka,cax,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,bz2,0.90000855,4.85e-06
+Asheninka,cax,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,gzip,0.90398024,9.2e-07
+Asheninka,cax,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,bz2,0.91540074,2.74e-06
+Asheninka,cax,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,gzip,0.9061716,6.8e-07
+English,eng,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,bz2,0.84670253,1.73e-06
+English,eng,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,gzip,0.83387783,1.5e-07
+English,eng,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,bz2,-1.33927604,1.32e-06
+English,eng,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,gzip,-1.11405597,6.7e-07
+English,eng,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,bz2,0.90735445,1.45e-06
+English,eng,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,gzip,0.90406206,3.62e-06
+English,eng,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,bz2,0.949387,2.6e-06
+English,eng,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,gzip,0.92285145,3.1e-07
+French,fre,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,bz2,0.85528162,3.45e-06
+French,fre,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,gzip,0.84379736,4.5e-07
+French,fre,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,bz2,-1.33634555,6.7e-07
+French,fre,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,gzip,-1.11883361,2.9e-07
+French,fre,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,bz2,0.91181193,7.2e-07
+French,fre,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,gzip,0.90463503,3.07e-06
+French,fre,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,bz2,0.95169149,4.4e-07
+French,fre,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,gzip,0.92174674,2.4e-07
+Germany,ger,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,bz2,0.90052049,1.38e-06
+Germany,ger,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,gzip,0.90162537,4.8e-07
+Germany,ger,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,bz2,-1.32361164,4.5e-07
+Germany,ger,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,gzip,-1.10950991,3.2e-07
+Germany,ger,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,bz2,0.91065263,3.35e-06
+Germany,ger,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,gzip,0.90511323,2.64e-06
+Germany,ger,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,bz2,0.94230564,1.07e-06
+Germany,ger,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,gzip,0.91594768,2.1e-07
+Guarani Eastern Bolivia,crg,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,bz2,0.80353288,1.6e-07
+Guarani Eastern Bolivia,crg,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,gzip,0.76225409,2.1e-07
+Guarani Eastern Bolivia,crg,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,bz2,-1.48032092,5.18e-06
+Guarani Eastern Bolivia,crg,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,gzip,-1.23358521,3.1e-07
+Guarani Eastern Bolivia,crg,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,bz2,0.89910358,4.84e-06
+Guarani Eastern Bolivia,crg,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,gzip,0.90552989,2.94e-06
+Guarani Eastern Bolivia,crg,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,bz2,0.95695705,3.45e-06
+Guarani Eastern Bolivia,crg,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,gzip,0.93476562,2.2e-07
+Guarani Mbya,[gun],$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,bz2,0.82446297,3.31e-06
+Guarani Mbya,[gun],$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,gzip,0.80250105,9e-08
+Guarani Mbya,[gun],$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,bz2,-1.40866741,9.1e-07
+Guarani Mbya,[gun],$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,gzip,-1.17620952,3.1e-07
+Guarani Mbya,[gun],$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,bz2,0.90158357,4.93e-06
+Guarani Mbya,[gun],$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,gzip,0.90549813,9.5e-07
+Guarani Mbya,[gun],$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,bz2,0.95346124,5.5e-07
+Guarani Mbya,[gun],$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,gzip,0.9258787,4.3e-07
+Guarani Paraguay,gua,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,bz2,0.93045046,2.3e-06
+Guarani Paraguay,gua,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,gzip,0.94530626,2.1e-07
+Guarani Paraguay,gua,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,bz2,-1.37341968,4.7e-07
+Guarani Paraguay,gua,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,gzip,-1.1491729,4e-07
+Guarani Paraguay,gua,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,bz2,0.91411381,5.08e-06
+Guarani Paraguay,gua,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,gzip,0.904059,8.5e-07
+Guarani Paraguay,gua,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,bz2,0.94059627,2.2e-07
+Guarani Paraguay,gua,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,gzip,0.91479811,5.6e-07
+Guarani Western Bolivia,[gnw],$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,bz2,0.80920085,1.9e-07
+Guarani Western Bolivia,[gnw],$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,gzip,0.77253631,1.2e-07
+Guarani Western Bolivia,[gnw],$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,bz2,-1.48092109,2.82e-06
+Guarani Western Bolivia,[gnw],$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,gzip,-1.23325821,4.5e-07
+Guarani Western Bolivia,[gnw],$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,bz2,0.89848862,1.423e-05
+Guarani Western Bolivia,[gnw],$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,gzip,0.90484619,4.45e-06
+Guarani Western Bolivia,[gnw],$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,bz2,0.95673911,3.58e-06
+Guarani Western Bolivia,[gnw],$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,gzip,0.93491127,2.4e-07
+Jamamadi,jmm,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,bz2,0.79662481,2.39e-06
+Jamamadi,jmm,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,gzip,0.79199838,3.5e-07
+Jamamadi,jmm,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,bz2,-1.52446802,2.8e-06
+Jamamadi,jmm,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,gzip,-1.25031244,2.8e-07
+Jamamadi,jmm,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,bz2,0.90143492,3.45e-06
+Jamamadi,jmm,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,gzip,0.90521936,1.16e-06
+Jamamadi,jmm,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,bz2,0.95815834,1.58e-06
+Jamamadi,jmm,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,gzip,0.93439465,1.1e-06
+Kaigang,kng,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,bz2,0.68404003,3.75e-06
+Kaigang,kng,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,gzip,0.6213022,4.1e-07
+Kaigang,kng,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,bz2,-1.38779528,7.2e-07
+Kaigang,kng,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,gzip,-1.16570814,2.7e-07
+Kaigang,kng,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,bz2,0.90386751,4.78e-06
+Kaigang,kng,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,gzip,0.90474689,1.53e-06
+Kaigang,kng,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,bz2,1.00226084,6.4e-07
+Kaigang,kng,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,gzip,0.95455692,3.5e-07
+Macushi,mac,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,bz2,0.86646321,4.29e-06
+Macushi,mac,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,gzip,0.86371365,3.1e-07
+Macushi,mac,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,bz2,-1.4955089,4.5e-07
+Macushi,mac,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,gzip,-1.23821476,3.9e-07
+Macushi,mac,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,bz2,0.90021433,1.047e-05
+Macushi,mac,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,gzip,0.90434487,1.37e-06
+Macushi,mac,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,bz2,0.94411514,4.7e-07
+Macushi,mac,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,gzip,0.92437306,3.9e-07
+Matsés,myr,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,bz2,0.83142998,1.38e-06
+Matsés,myr,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,gzip,0.87153076,2.1e-07
+Matsés,myr,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,bz2,-1.55589588,8e-07
+Matsés,myr,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,gzip,-1.26988106,4.4e-07
+Matsés,myr,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,bz2,0.89760982,1.25e-06
+Matsés,myr,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,gzip,0.90552121,2.49e-06
+Matsés,myr,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,bz2,0.94750164,7.7e-07
+Matsés,myr,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,gzip,0.92909462,3.5e-07
+Maxakali,max,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,bz2,0.77468707,7e-08
+Maxakali,max,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,gzip,0.71761368,1.5e-07
+Maxakali,max,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,bz2,-1.42890073,1.05e-06
+Maxakali,max,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,gzip,-1.21830237,3.1e-07
+Maxakali,max,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,bz2,0.90169021,3.72e-06
+Maxakali,max,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,gzip,0.90506823,2.44e-06
+Maxakali,max,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,bz2,0.956731,3.9e-07
+Maxakali,max,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,gzip,0.93645495,3.2e-07
+Nadeb,nad,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,bz2,0.6583951,1.6e-07
+Nadeb,nad,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,gzip,0.64392764,7e-08
+Nadeb,nad,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,bz2,-1.45985105,4.2e-06
+Nadeb,nad,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,gzip,-1.20429723,3.6e-07
+Nadeb,nad,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,bz2,0.9134082,8.6e-07
+Nadeb,nad,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,gzip,0.90540655,2.82e-06
+Nadeb,nad,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,bz2,1.01118273,6.2e-07
+Nadeb,nad,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,gzip,0.95822008,2.5e-07
+Nheengatu,[yrl],$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,bz2,0.87817807,5.1e-07
+Nheengatu,[yrl],$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,gzip,0.87224541,1.5e-07
+Nheengatu,[yrl],$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,bz2,-1.48159973,1.46e-06
+Nheengatu,[yrl],$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,gzip,-1.21489138,4.4e-07
+Nheengatu,[yrl],$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,bz2,0.90364288,5.54e-06
+Nheengatu,[yrl],$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,gzip,0.90484037,2.99e-06
+Nheengatu,[yrl],$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,bz2,0.93852262,6.79e-06
+Nheengatu,[yrl],$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,gzip,0.92370488,1.6e-07
+Palikúr,plk,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,bz2,0.82403393,2.17e-06
+Palikúr,plk,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,gzip,0.8440554,2.6e-07
+Palikúr,plk,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,bz2,-1.49530687,5.2e-07
+Palikúr,plk,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,gzip,-1.21728461,3.2e-07
+Palikúr,plk,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,bz2,0.89952002,4.27e-06
+Palikúr,plk,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,gzip,0.90511291,1.84e-06
+Palikúr,plk,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,bz2,0.95348842,1.35e-06
+Palikúr,plk,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,gzip,0.92968106,6.1e-07
+Parecís,pex,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,bz2,0.94682798,1.2e-06
+Parecís,pex,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,gzip,0.94652846,2.8e-07
+Parecís,pex,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,bz2,-1.46661553,9.2e-07
+Parecís,pex,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,gzip,-1.2180424,1.06e-06
+Parecís,pex,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,bz2,0.90713779,2.8e-06
+Parecís,pex,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,gzip,0.90503871,2.24e-06
+Parecís,pex,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,bz2,0.9347198,2.47e-06
+Parecís,pex,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,gzip,0.91711721,7e-07
+Portuguese,por,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,bz2,0.89949412,4.4e-07
+Portuguese,por,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,gzip,0.87030053,4.1e-07
+Portuguese,por,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,bz2,-1.29203435,4.4e-07
+Portuguese,por,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,gzip,-1.10697202,1.5e-07
+Portuguese,por,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,bz2,0.91200454,1.2e-06
+Portuguese,por,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,gzip,0.90558731,6.4e-07
+Portuguese,por,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,bz2,0.94053269,5.3e-07
+Portuguese,por,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,gzip,0.91854273,1.6e-07
+Sateré-Mawé,[mav],$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,bz2,0.82495562,1.11e-06
+Sateré-Mawé,[mav],$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,gzip,0.77407488,1.8e-07
+Sateré-Mawé,[mav],$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,bz2,-1.4261092,5.7e-07
+Sateré-Mawé,[mav],$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,gzip,-1.20183164,2e-07
+Sateré-Mawé,[mav],$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,bz2,0.90127705,4.43e-06
+Sateré-Mawé,[mav],$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,gzip,0.90361531,2.79e-06
+Sateré-Mawé,[mav],$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,bz2,0.94026259,6e-07
+Sateré-Mawé,[mav],$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,gzip,0.92614662,3.4e-07
+Spanish,spa,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,bz2,0.89483607,1.54e-06
+Spanish,spa,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,gzip,0.88770556,2.7e-07
+Spanish,spa,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,bz2,-1.30940534,5.7e-07
+Spanish,spa,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,gzip,-1.11027753,4.9e-07
+Spanish,spa,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,bz2,0.90324406,1.81e-06
+Spanish,spa,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,gzip,0.90360052,2.15e-06
+Spanish,spa,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,bz2,0.93922558,4.2e-07
+Spanish,spa,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,gzip,0.91704731,4.6e-07
+Terêna,trn,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,bz2,0.94391238,1.8e-07
+Terêna,trn,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,gzip,1.00613341,2.9e-07
+Terêna,trn,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,bz2,-1.44401724,4e-07
+Terêna,trn,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,gzip,-1.17805752,1.9e-07
+Terêna,trn,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,bz2,0.91276966,3.74e-06
+Terêna,trn,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,gzip,0.90492081,1.97e-06
+Terêna,trn,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,bz2,0.94207202,9.2e-07
+Terêna,trn,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,gzip,0.91833856,6.6e-07
+Tuyúca,tuy,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,bz2,0.95659226,2.2e-07
+Tuyúca,tuy,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,gzip,1.01219486,2.7e-07
+Tuyúca,tuy,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,bz2,-1.43554112,2.34e-06
+Tuyúca,tuy,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,gzip,-1.19727392,5.6e-07
+Tuyúca,tuy,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,bz2,0.90112583,4.56e-06
+Tuyúca,tuy,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,gzip,0.9048788,6.5e-07
+Tuyúca,tuy,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,bz2,0.93562602,4.4e-07
+Tuyúca,tuy,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,gzip,0.91719216,1.5e-07
+Wapishana,wps,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,bz2,0.93745197,1.9e-07
+Wapishana,wps,$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,gzip,0.93747624,1.7e-07
+Wapishana,wps,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,bz2,-1.45534592,1.49e-06
+Wapishana,wps,$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,gzip,-1.21389949,2.1e-07
+Wapishana,wps,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,bz2,0.90546159,3.04e-06
+Wapishana,wps,$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,gzip,0.90527417,2.13e-06
+Wapishana,wps,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,bz2,0.9344279,4e-07
+Wapishana,wps,$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,gzip,0.91958905,2e-07
+Yanomami,[guu],$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,bz2,0.7165791,2.78e-06
+Yanomami,[guu],$\mu_{\circ}^{\mathbb{M}}(\mathscr{T})$,gzip,0.71100214,2.2e-07
+Yanomami,[guu],$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,bz2,-1.49268761,5.5e-07
+Yanomami,[guu],$\mu_{\times}^{\mathbb{M}}(\mathscr{T})$,gzip,-1.20337433,1.6e-07
+Yanomami,[guu],$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,bz2,0.90569006,2.09e-06
+Yanomami,[guu],$\mu_{\times}^{\mathbb{P}}(\mathscr{T})$,gzip,0.90453358,1.29e-06
+Yanomami,[guu],$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,bz2,0.98164959,3e-07
+Yanomami,[guu],$\mu_{\times}^{\mathbb{S}}(\mathscr{T})$,gzip,0.93851843,3.7e-07
